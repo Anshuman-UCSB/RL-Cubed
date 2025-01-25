@@ -1,0 +1,128 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.15",
+    "heartbeatAt": "2025-01-25T00:09:39.904511",
+    "startedAt": "2025-01-25T00:09:39.438414",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/biggergig/github/RL-Cubed/rlgym-ppo/example.py",
+    "codePathLocal": "example.py",
+    "codePath": "rlgym-ppo/example.py",
+    "git": {
+        "remote": "git@github.com:Anshuman-UCSB/RL-Cubed.git",
+        "commit": "1f7c68b855bc90046a430f30070c2aa7ce879b12"
+    },
+    "email": "anshuman@ucsb.edu",
+    "root": "/home/biggergig/github/RL-Cubed",
+    "host": "Anshuman",
+    "username": "biggergig",
+    "executable": "/home/biggergig/micromamba/envs/torch/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2495.999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2495.999,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 140.37098693847656
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 15.529613494873047
+    }
+}
